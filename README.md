@@ -2,4 +2,4 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)hiyo this is my spam fllw
+[![Typing SVG]https://readme-typing-svg.demolab.com/?lines=hi+this+is+my+spam+fllw)](https://git.io/typing-svg)
